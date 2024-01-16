@@ -18,7 +18,7 @@
   - cache glftpd.io
     - url: [glftpd.nl.eu.org](https://glftpd.nl.eu.org)
   - [glftpd-mirror](https://silv3rr.github.io/glftpd-mirror) 
-    - repo: [github.com/silv3rr/glftpd-mirror](https://github.com/silv3rr/glftpd-mirror)
+    - repo: [silv3rr.codeberg.page](https://silv3rr.codeberg.page)
     - url: [mirror.glftpd.nl.eu.org](https://mirror.glftpd.nl.eu.org)
   - [archive.glftpd-mirror](https://silv3rr.github.io/archive.glftpd-mirror)
     - repo: [github.com/silv3rr/archive.glftpd-mirror](https://github.com/silv3rr/archive.glftpd-mirror)

@@ -15,9 +15,9 @@
     - repo [github.com/silv3rr/pzs-ng.eu](https://github.com/silv3rr/pzs-ng.eu)
     - url: [pzs-ng.eu](https://pzs-ng.eu)
 - glftpd mirrors
-  - cache glftpd.io
+  - cached glftpd.io
     - url: [glftpd.nl.eu.org](https://glftpd.nl.eu.org)
-  - [glftpd-mirror](https://silv3rr.github.io/glftpd-mirror) 
+  - mirror glftpd.io
     - repo: [silv3rr.codeberg.page](https://silv3rr.codeberg.page)
     - url: [mirror.glftpd.nl.eu.org](https://mirror.glftpd.nl.eu.org)
   - [archive.glftpd-mirror](https://silv3rr.github.io/archive.glftpd-mirror)

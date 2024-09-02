@@ -15,8 +15,8 @@
     - repo [github.com/silv3rr/pzs-ng.eu](https://github.com/silv3rr/pzs-ng.eu)
     - url: [pzs-ng.eu](https://pzs-ng.eu)
 - glftpd website ([glftpd.io](https://glftpd.io))
-  - cache: [glftpd.top](https://glftpd.top) \| [glftpd.nl.eu.org](https://glftpd.nl.eu.org)
-  - snapshot: [cache.glftpd.top](https://cache.glftpd.top) \| [cache.glftpd.nl.eu.org](https://cache.glftpd.nl.eu.org)
+  - cache [[1](https://cache.glftpd.top)] \| [[2](https://glftpd.nl.eu.org)]
+  - snaphot [[1](https://snap.glftpd.top)] \| [[2](https://snap.glftpd.nl.eu.org)]
   - static mirror
     - repo: [silv3rr.codeberg.page](https://silv3rr.codeberg.page)
     - url: [mirror.glftpd.nl.eu.org](https://mirror.glftpd.nl.eu.org)
